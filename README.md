@@ -5,7 +5,7 @@ Córdoba, Argentina
 
 Combino mi formación como Analista de Sistemas con experiencia práctica en desarrollo web, gestión de datos y automatización de procesos.
 
-🌐 **Portfolio:** https://sites.google.com/view/guillenj/
+🌐 **Portfolio:** https://sites.google.com/view/guillenj/  
 💼 **LinkedIn:** https://www.linkedin.com/in/guillenj/
 
 ## 🛠️ Tecnologías
@@ -20,6 +20,14 @@ Combino mi formación como Analista de Sistemas con experiencia práctica en des
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+
+## 🎓 Formación
+
+- **Analista Universitario de Sistemas** – Universidad Nacional de Córdoba (egresado 2026)
+- **Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial** – ISPC (egresado 2026)
+- **Desarrollador Full Stack Junior** – ISPC (2026)
+- **Tecnicatura Superior en Desarrollo Web y Aplicaciones** – ISPC (en curso)
+- **Licenciatura en Ciberdefensa** – Facultad de la Defensa Nacional (ingreso 2026)
 
 ## 🚀 Proyectos destacados
 
