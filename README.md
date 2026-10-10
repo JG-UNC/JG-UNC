@@ -1,6 +1,6 @@
 # Hola, soy Jonathan Guillén 👋
 
-**Analista de Sistemas · Desarrollo Web Full Stack · Ciencia de Datos e IA**
+**Analista de Sistemas · Desarrollo Web Full Stack · Ciencia de Datos e IA**  
 Córdoba, Argentina
 
 Combino mi formación como Analista de Sistemas con experiencia práctica en desarrollo web, gestión de datos y automatización de procesos.
@@ -26,7 +26,6 @@ Combino mi formación como Analista de Sistemas con experiencia práctica en des
 - **EduTools** – Plataforma para optimizar el trabajo entre Asesoría Pedagógica y Maquetación en Canvas LMS. Rol: Líder Técnico / Full Stack. Angular 17, Django REST, MySQL. [Repositorio](https://github.com/ISPC-TSDWAD/ModPWeb--Dev6)
 - **Dev6 – Inmobiliaria Saul Hnos** – Aplicación web para una inmobiliaria de Córdoba. Rol: QA. React, Flask, MySQL. [Demo](https://dev6.vercel.app) · [Repositorio](https://github.com/Proyecto-DFNVV/Dev6)
 - **InstaTURNO** – Sistema de gestión de turnos médicos. Rol: Backend. [Repositorio](https://github.com/JG-UNC/InstaTURNO--Grupo4--DS-IA)
-- **Sistema de trazabilidad** – Seguimiento y control de productos. [Repositorio](https://github.com/JG-UNC/Sistema-amplify-aws)
 
 ## 📫 Contacto
 
